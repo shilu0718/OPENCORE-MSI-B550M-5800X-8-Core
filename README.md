@@ -1,0 +1,2 @@
+# OPENCORE-MSI-B550M-5800X-8-Core
+Hackintoch For Msi B550M
